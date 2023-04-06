@@ -13,7 +13,7 @@ alias lsal="ls -Al"
 alias targz=targzfunc
 alias untar=untarfunc
 # Edit the ??? in this line
-alias cselab="ssh -p 222 username@129.252.130.???"
+alias cselab="ssh -p 222 username@129.252.130.189"
 # Trash alias instead of using rm
 alias trash="mv -t ~/.TRASH"
 alias rmtrash="rm -rf ~/.TRASH/*"
